@@ -1,0 +1,32 @@
+ProductController(list of APIs)
+  1. Get Products
+  2. Add Products
+  3. Get One Product
+  4  Rate Product
+  5. Filter Products
+  6. Rate Products
+  7. Add Items to Cart
+  8. Get items of the Cart
+  9. Remove items of the Cart
+
+
+  UserController
+ 10. Signup-Emails,name,password,type of User(customer or a seller)
+ 11. Signin-Emails,password
+
+
+PROJECT TIMELINE
+
+Folder Structure
+Route configuration
+Creating APIs
+Different API Methods
+Middlewares
+Route parameters
+Query parameters
+Testing api using postman
+Securing Api using jwt token
+Documenting API using using swagger
+CORS
+Logging
+Error Handling

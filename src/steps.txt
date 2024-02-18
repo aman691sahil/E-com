@@ -1,0 +1,7 @@
+Here are the steps to create an increment object id 
+This will be more readable in MongoDB
+
+1.Counter Collection(_id:cartItemId,value=0)->keep track of the last id inserted
+2.While adding the cart Items,increment the counter and then use counter value as id to the cartitem document
+3.
+

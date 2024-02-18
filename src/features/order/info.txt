@@ -1,0 +1,13 @@
+Place Order
+
+1.Get the cartItems of user,calculate the totalAmount of all the products
+2.Create a Record for the Order
+3.Redeuce the stocks(products quantity)
+4.Clear the cart
+
+
+# EITHER ALL THE OPERATIONS SHOULD BE PERFORMED OR NONE OF THEM SHOULD HAPPEN
+
+
+
+
